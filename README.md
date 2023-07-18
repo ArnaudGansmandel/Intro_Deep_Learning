@@ -1,6 +1,7 @@
-﻿# Intro Deep Learning
+﻿# Introduction to Deep Learning
 
- This repository contains the following notebooks:
+ This repository is organized as following :
 
- - Introduction to supervised learning
- - Model selection
+- Introduction to supervised learning
+  - Introduction to supervised learning
+  - Model selection
